@@ -1,0 +1,23 @@
+name: material
+description: Set of material design icons.
+version: 1.0.0
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+ fonts:
+   - family: Material
+     fonts:
+       - asset: lib/fonts/material.ttf
