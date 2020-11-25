@@ -2,7 +2,10 @@ library material;
 
 import 'package:flutter/widgets.dart';
 
+/// Font family name.
 const String _fontFamily = 'Material';
+
+/// Package name.
 const String _fontPackage = 'material';
 
 /// Material Icons.
