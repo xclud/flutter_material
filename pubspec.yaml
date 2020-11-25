@@ -1,8 +1,8 @@
 name: material
 description: Set of material design icons.
 version: 1.0.0
-author:
-homepage:
+homepage: https://pwa.ir
+repository: https://github.com/xclud/flutter_material
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
