@@ -4,15 +4,15 @@
 
 Set of material design icons incluing 1070 outlined icons.
 
+[Web Demo](https://xclud.github.io/flutter_material/)
+
+
 ## Supported platforms
 
 * Flutter Android
 * Flutter iOS
 * Flutter Web
 * Flutter Desktop
-
-
-[Web Demo](https://xclud.github.io/flutter_material/)
 
 
 ## Getting Started
