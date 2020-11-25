@@ -1,6 +1,6 @@
 name: material
-description: Set of material design icons.
-version: 1.0.0
+description: Set of material design icons packed in a single ttf font file. Works on all platforms.
+version: 1.0.0+1
 homepage: https://pwa.ir
 repository: https://github.com/xclud/flutter_material
 
