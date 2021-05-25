@@ -1,12 +1,11 @@
 name: material
 description: Set of material design icons packed in a single ttf font file. Works on all platforms.
-version: 1.0.0+1
-homepage: https://pwa.ir
+version: 1.0.0+2
+homepage: https://github.com/xclud
 repository: https://github.com/xclud/flutter_material
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
